@@ -1,0 +1,14 @@
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\bin\Debug\ATM_station.exe.config
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\bin\Debug\ATM_station.exe
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\bin\Debug\ATM_station.pdb
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\obj\Debug\ATM_station.csprojResolveAssemblyReference.cache
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\obj\Debug\ATM_station.csproj.CoreCompileInputs.cache
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\obj\Debug\ATM_station.exe
+C:\Users\FaridAz\source\repos\ATM_station\ATM_station\obj\Debug\ATM_station.pdb
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\bin\Debug\ATM_station.exe.config
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\bin\Debug\ATM_station.exe
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\bin\Debug\ATM_station.pdb
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\obj\Debug\ATM_station.csprojAssemblyReference.cache
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\obj\Debug\ATM_station.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\obj\Debug\ATM_station.exe
+C:\Users\User\Desktop\ATM-Main-master\ATM_station\ATM_station\obj\Debug\ATM_station.pdb
